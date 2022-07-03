@@ -2,7 +2,7 @@
 - My projects:
 - Calculator, written in C++: https://github.com/Mellowdv/cpp-calc
 - HASM, Assembler emulator for the Hack architecture used in Nand2Tetris: https://github.com/Mellowdv/HASM
-  In need of a refactoring.
+- In need of a refactoring.
 - Sudoku Solver (work in progress, currently building GUI) in C++: https://github.com/Mellowdv/sudoku_solver
 - 👀 I’m interested in C/C++, Rust, operating systems, low level programming, lexical analysis and parsers
 - 🌱 I’m currently learning C++, lexical analysis, algorithms
